@@ -31,6 +31,6 @@ You can find useful instructions here: [Essentials Docs Wiki](https://essentials
 | `DailyReward.consecutive` | Return the number of consecutive logins.                                                                                        |
 <br>
 
-[Download instructions](https://github.com/MickTK/Pokemon-Essentials-Plugins/blob/main/Download%20instructions.md)
+Installation: [instructions](https://github.com/MickTK/Pokemon-Essentials-Plugins/wiki/Instructions).
 
 Inspired by [Custom Daily Reward](https://www.curseforge.com/minecraft/mc-mods/custom-daily-reward?page=2) for Minecraft.
